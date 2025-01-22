@@ -1,8 +1,9 @@
-<!-- 组织名称与标志 -->
 <div align="center">
   <h1>上海锦麒行旅游信息咨询有限公司</h1>
   <h3>Jinqitrip Co. Ltd. | 让每一次出行成为美好体验</h3>
   <img src="https://avatars.githubusercontent.com/u/195893052?s=400&u=0fbc25f111c9d4ac48e409e48106f6c6d6fd404e&v=4" width="200" alt="Jinqitrip Logo">
+  <br/>
+  中文 | <a href="https://github.com/Jinqitrip/.github/blob/main/README_EN.md">English</a>
 </div>
 
 ### 🌍 关于我们
@@ -56,4 +57,4 @@ graph LR
 
 ---
 
-<sub>© 2024 上海锦麒行旅游信息咨询有限公司</sub>
+<sub>© 2024-2025 上海锦麒行旅游信息咨询有限公司</sub>
