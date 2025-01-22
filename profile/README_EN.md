@@ -3,7 +3,7 @@
   <h3>Jinqitrip Co. Ltd. | Turning Every Journey into an Exceptional Experience</h3>
   <img src="https://avatars.githubusercontent.com/u/195893052?s=400&u=0fbc25f111c9d4ac48e409e48106f6c6d6fd404e&v=4" width="200" alt="Jinqitrip Logo">
   <br/>
-  <a href="https://github.com/Jinqitrip/.github/blob/main/README.md">中文</a> | English
+  <a href="https://github.com/Jinqitrip/.github/blob/main/profile/README.md">中文</a> | English
 </div>
 
 ### 🌍 About Us
@@ -19,7 +19,7 @@
 - **Continuous Optimization**: Utilizing Agile development methodology to iteratively improve our systems through continuous feedback.
 
 ### 📂 Public Repositories Overview
-> ℹ️ The following are open-source projects approved by our Technical Committee:
+> ℹ️ The following are open-source projects approved by our Board:
 
 *Currently no public repositories available.*
 
