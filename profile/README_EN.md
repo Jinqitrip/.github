@@ -30,7 +30,7 @@
 
 ### 🤝 Collaboration & Contribution
 **Enterprise Partnerships**  
-We welcome collaborations with hotel groups, ticketing platforms, and technology providers. Contact: `partner@jinqitrip.com.cn`
+We welcome collaborations with hotel groups, ticketing platforms, and technology providers. Contact: `harry@jinqitrip.com`
 
 **Developer Participation**  
 Selected open-source projects accept contributions following these steps:
