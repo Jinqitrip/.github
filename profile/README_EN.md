@@ -21,7 +21,9 @@
 ### 📂 Public Repositories Overview
 > ℹ️ The following are open-source projects approved by our Board:
 
-*Currently no public repositories available.*
+| Repository Name | Link | License | Description |
+|---|---|---|---|
+| JQX_campus_guide | https://github.com/Jinqitrip/JQX_campus_guide | GPL-3.0 | Outlines the grand blueprint of the Jinqitrip campus guide project |
 
 ### 🌟 Featured Services
 - **Exclusive Member Benefits**: Reward point redemption, VIP channels, and exclusive ticket access.
