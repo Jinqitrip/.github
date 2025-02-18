@@ -24,6 +24,7 @@
 | Repository Name | Link | License | Description |
 |---|---|---|---|
 | JQX_campus_guide | https://github.com/Jinqitrip/JQX_campus_guide | GPL-3.0 | Outlines the grand blueprint of the Jinqitrip campus guide project |
+| JQX-TourChain-node | https://github.com/Jinqitrip/JQX-TourChain-node | GPL-3.0 | An AI-driven campus tour platform enabling campus guide services with intelligent matching and seamless integration of scheduling, booking, and secure payment systems. |
 
 ### 🌟 Featured Services
 - **Exclusive Member Benefits**: Reward point redemption, VIP channels, and exclusive ticket access.
