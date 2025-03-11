@@ -23,8 +23,10 @@
 
 |仓库名|链接|许可证|简介|
 |---|---|---|---|
-| JQX_campus_guide | https://github.com/Jinqitrip/JQX_campus_guide | GPL-3.0 | 勾绘了锦麒行校园引路人项目的宏伟蓝图 |
+| JQX_campus_guide | https://github.com/Jinqitrip/JQX_campus_guide | GPL-3.0 | 勾绘了锦麒行校园引路人项目的宏伟蓝图。 |
 | JQX-TourChain-node | https://github.com/Jinqitrip/JQX-TourChain-node | GPL-3.0 | 智慧校园导游服务平台，通过AI驱动的智能匹配与全链路管理，实现校园导游服务的精准预约与安全交易。 |
+| JQtrip-minipro | https://github.com/Jinqitrip/JQtrip-minipro | GPL-3.0 | 开放的智慧校园导游服务平台移动版前端。 |
+| Jinqitrip_website | https://github.com/Jinqitrip/Jinqitrip_website | DPFL | 一家技术驱动的前沿企业的官网。 |
 
 ### 🌟 特色服务
 - **会员专属权益**：积分兑换、VIP通道、独家票务资源。
